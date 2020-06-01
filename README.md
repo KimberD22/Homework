@@ -1,2 +1,2 @@
 # Homework
-Week Class Homework Assignments
+Weekly Class Homework Assignments
