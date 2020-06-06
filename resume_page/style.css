@@ -6,10 +6,24 @@ h1 {
 }
 
 h3 {
+    font-size:larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color:#5F9EA0;
 }
+img2 {
+    border-radius: 50%;
+}
 
+img {
+    width: 350px;
+    height: 255px;
+    object-fit: cover;
+    border: 1px solid black;
+}
 body {
     background-color: bisque;
+    margin-top: 0;
+    margin-left: 65px;
+    border-top: 5px black
 }
+
